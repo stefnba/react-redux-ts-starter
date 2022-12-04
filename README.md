@@ -1,1 +1,2 @@
-# react-redux-ts-starter
+# React & Redux Starter in TypeScript
+
